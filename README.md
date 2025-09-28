@@ -3,15 +3,15 @@
 <p align="center">
   <b>Desarrollador móvil Flutter</b> · Clean Architecture · Apps listas para producción
   <br/>
-  Guatemala · <a href="https://jorgegrullondev.com" target="_blank">jorgegrullondev.com</a>
+  Guatemala · <a href="[https://jorgegrullondev.com](https://jorgegrullondev.com/)" target="_blank">jorgegrullondev.com</a>
 </p>
 
 <!-- Badges principales -->
 <p align="center">
   <a href="mailto:prosystem155@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prosystem155%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/jorge luis grullon marroquin".replace(" ","")><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Grull%C3%B3n-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="[https://www.linkedin.com/in/jorge luis grullon marroquin](https://www.linkedin.com/in/jorgeluisgrullonmarroquin/)".replace(" ","")><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Grull%C3%B3n-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/GrullonDev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-GrullonDev-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://portfolio-b302f.web.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-WebApp-0ea5e9?style=for-the-badge"/></a>
+  <a href="[https://portfolio-b302f.web.app/](https://jorgegrullondev.com/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-WebApp-0ea5e9?style=for-the-badge"/></a>
 </p>
 
 <!-- Pitch -->
