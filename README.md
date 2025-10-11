@@ -9,7 +9,7 @@
 <!-- Badges principales -->
 <p align="center">
   <a href="mailto:prosystem155@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prosystem155%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="[https://www.linkedin.com/in/jorgeluisgrullonmarroquin/](https://www.linkedin.com/in/jorgeluisgrullonmarroquin/)".replace(" ","")><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Grull%C3%B3n-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/jorgeluisgrullonmarroquin/".replace(" ","")><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Grull%C3%B3n-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/GrullonDev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-GrullonDev-black?style=for-the-badge&logo=github"/></a>
   <a href="https://jorgegrullondev.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-WebApp-0ea5e9?style=for-the-badge"/></a>
 </p>
@@ -102,7 +102,7 @@
 <p>
   Escríbeme: <a href="mailto:prosystem155@gmail.com">prosystem155@gmail.com</a> · 
   <a href="https://jorgegrullondev.com" target="_blank">Web</a> · 
-  <a href="https://www.linkedin.com/in/jorge luis grullon marroquin".replace(" ","") target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jorgeluisgrullonmarroquin/".replace(" ","") target="_blank">LinkedIn</a>
 </p>
 
 <!-- Footer -->
