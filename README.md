@@ -1,111 +1,16 @@
-<!-- Header -->
-<h1 align="center">Hi there, I'm Jorge Grullón <img src="https://raw.githubusercontent.com/GrullonDev/GrullonDev/main/assets/wave.gif" alt="wave" width="28"/></h1>
-<p align="center">
-  <b>Desarrollador móvil Flutter</b> · Clean Architecture · Apps listas para producción
-  <br/>
-  Guatemala · <a href="[https://jorgegrullondev.com](https://jorgegrullondev.com/)" target="_blank">jorgegrullondev.com</a>
-</p>
+<h1 align="center">Hi 👋, I'm Jorge Luis Grullón Marroquín</h1>
+<h3 align="center">A passionate frontend developer from Guatemala</h3>
 
-<!-- Badges principales -->
-<p align="center">
-  <a href="mailto:prosystem155@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prosystem155%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/jorgeluisgrullonmarroquin/".replace(" ","")><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Grull%C3%B3n-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/GrullonDev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-GrullonDev-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://jorgegrullondev.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-WebApp-0ea5e9?style=for-the-badge"/></a>
-</p>
+- 🔭 I’m currently working on [Barberia App](https://github.com/GrullonDev/Barberia)
 
-<!-- Pitch -->
-<p align="center">
-  Construyo <b>apps móviles Flutter</b> de punta a punta (product discovery → diseño → desarrollo → publicación en Google Play) 
-  aplicando <b>Clean Architecture</b>, calidad (QA) y buenas prácticas.
-</p>
-
-<!-- Tech stack -->
-<h3>⚙️ Stack</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,xcode,firebase,sqlite,postgresql,graphql,nodejs,nestjs,git,githubactions,figma,docker&perline=9" />
+<a href="https://dev.to/https://jorgegrullondev.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://jorgegrullondev.com/" height="30" width="40" /></a>
+<a href="https://twitter.com/jorgeluisgm8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorgeluisgm8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jorgeluisgrullonmarroquin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorgeluisgrullonmarroquin/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jorgegrullondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jorgegrullondev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@ingenieriachapina6283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ingenieriachapina6283" height="30" width="40" /></a>
 </p>
 
-<!-- Servicios -->
-<details open>
-<summary><b>🧩 Servicios que ofrezco</b></summary>
-
-- Desarrollo de **apps Flutter** (Android/iOS/Web) con Clean Architecture.
-- **Backends** con NestJS/NodeJS, GraphQL/REST, PostgreSQL, Firebase.
-- **Publicación** en Google Play (configuración de cuentas, assets, listados, release).
-- **Mantenimiento** y mejora continua (CI/CD, monitoreo, crashlytics, analítica).
-- **UI/UX** rápido con Figma + sistemas de diseño reutilizables.
-</details>
-
-<!-- Proyectos destacados -->
-<h3>🚀 Proyectos destacados</h3>
-
-<table>
-  <tr>
-    <td>
-      <h4>PersonalFinance</h4>
-      <p>Gestión de finanzas personales con categorías, presupuestos y reportes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-auth%2Ffirestore%2Fcrashlytics-ffca28?logo=firebase&logoColor=black"/>
-      </p>
-      <a href="https://github.com/GrullonDev/PersonalFinance">Repositorio</a>
-    </td>
-    <td>
-      <h4>pomodoro</h4>
-      <p>App de enfoque con ciclos Pomodoro, estadísticas y recordatorios.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Clean%20Architecture-on-16a34a"/>
-      </p>
-      <a href="https://github.com/GrullonDev/pomodoro">Repositorio</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>YellowFlowers</h4>
-      <p>Experiencias románticas con música (Jamendo API), recuerdos y mensajes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jamendo%20API-music-9333ea"/>
-      </p>
-      <a href="https://github.com/GrullonDev/YellowFlowers">Repositorio</a>
-    </td>
-    <td>
-      <h4>portfolio</h4>
-      <p>Portafolio personal en Flutter Web con proyectos y contacto.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter%20Web-live-0ea5e9"/>
-      </p>
-      <a href="https://github.com/GrullonDev/portfolio">Repositorio</a> · 
-      <a href="https://portfolio-b302f.web.app/">Demo</a>
-    </td>
-  </tr>
-</table>
-
-<!-- Métricas/Logros -->
-<h3>🏅 Logros & métricas</h3>
-
-- +2 apps publicadas o listas para publicar en Google Play.
-- Entregas en <b>semanas</b> (no meses) gracias a arquitectura modular y plantillas propias.
-- QA integrado: pruebas en dispositivo físico, Crashlytics, rastreo de ANR.
-
-<!-- Stats -->
-<h3>📊 Estadísticas</h3>
-<p align="left">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=GrullonDev&theme=dark&hide_border=true" alt="streak"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrullonDev&layout=compact&theme=dark&hide_border=true" alt="top langs"/>
-</p>
-
-<!-- Contacto -->
-<h3>🤝 ¿Construimos tu app?</h3>
-<p>
-  Escríbeme: <a href="mailto:prosystem155@gmail.com">prosystem155@gmail.com</a> · 
-  <a href="https://jorgegrullondev.com" target="_blank">Web</a> · 
-  <a href="https://www.linkedin.com/in/jorgeluisgrullonmarroquin/".replace(" ","") target="_blank">LinkedIn</a>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <sub>Hecho con Flutter 💙 · Clean Architecture · GrullonDev</sub>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
