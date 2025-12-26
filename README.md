@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" width="140" alt="GrullonDev Logo" />
-</p>
-
 <h1 align="center">Jorge Grullón · GrullonDev</h1>
 
 <p align="center">
