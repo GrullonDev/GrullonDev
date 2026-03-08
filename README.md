@@ -19,9 +19,10 @@
   <a href="https://whatsapp.com/channel/0029Vb7iH085K3zPbsXjht3v">
     <img src="https://img.shields.io/badge/WhatsApp-Canal-green?style=for-the-badge"/>
   </a>
+  <a href="https://wakatime.com/badge/github/GrullonDev/GrullonDev">
+    <img src="https://wakatime.com/badge/github/GrullonDev/GrullonDev.svg" alt="wakatime">
+  </a>
 </p>
-
-<a href="https://wakatime.com/badge/github/GrullonDev/GrullonDev"><img src="https://wakatime.com/badge/github/GrullonDev/GrullonDev.svg" alt="wakatime"></a>
 
 ---
 
