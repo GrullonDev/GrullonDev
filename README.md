@@ -21,6 +21,8 @@
   </a>
 </p>
 
+<a href="https://wakatime.com/badge/github/GrullonDev/GrullonDev"><img src="https://wakatime.com/badge/github/GrullonDev/GrullonDev.svg" alt="wakatime"></a>
+
 ---
 
 ## 💼 ¿A quién ayudo?
